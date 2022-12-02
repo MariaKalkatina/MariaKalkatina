@@ -5,8 +5,7 @@
 (https://www.linkedin.com/in/maria-kalkatina/)
 
 ## My CV
-[Link to my CV]
-(https://drive.google.com/file/d/16N0fMOgdqQJyQM6pI5k82K1mPZeZDsHF/view?usp=share_link)
+[Link to my CV](https://drive.google.com/file/d/16N0fMOgdqQJyQM6pI5k82K1mPZeZDsHF/view?usp=share_link)
 
 ### Languages and Tools
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -20,10 +19,8 @@
 
 ### Testing Documentation
 
-[Bug Reports and Test Cases]
-(https://github.com/MariaKalkatina/Bug-Reports-and-Test-Cases)
+[Bug Reports and Test Cases](https://github.com/MariaKalkatina/Bug-Reports-and-Test-Cases)
 
-[SQL Queries]
-(https://github.com/MariaKalkatina/SQL)
+[SQL Queries](https://github.com/MariaKalkatina/SQL)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
