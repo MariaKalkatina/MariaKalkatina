@@ -1,8 +1,7 @@
 ### Hi there 👋
 ## My name is Mariia Kalkatina, I'm Junior QA Engineer and this is my Github
 ## My LinkedIn 
-[Link to my LinkedIn profile]
-(https://www.linkedin.com/in/maria-kalkatina/)
+[Link to my LinkedIn profile](https://www.linkedin.com/in/maria-kalkatina/)
 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/16N0fMOgdqQJyQM6pI5k82K1mPZeZDsHF/view?usp=share_link)
